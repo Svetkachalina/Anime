@@ -1,5 +1,5 @@
 const modal = document.querySelector('.search-model');
-const modalBtn = document.querySelector('.icon-search');
+const modalBtn = document.querySelector('.icon_search');
 const modalClose = modal.querySelector('.search-close-switch');
 
 modalBtn.addEventListener('click', () => {
